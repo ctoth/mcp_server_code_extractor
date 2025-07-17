@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ctoth-mcp-server-code-extractor-badge.png)](https://mseep.ai/app/ctoth-mcp-server-code-extractor)
+
 # MCP Server Code Extractor
 
 A Model Context Protocol (MCP) server that provides precise code extraction tools using tree-sitter parsing. Extract functions, classes, and code snippets from 30+ programming languages without manual parsing.
